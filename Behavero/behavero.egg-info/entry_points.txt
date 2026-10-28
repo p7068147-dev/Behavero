@@ -1,0 +1,2 @@
+[console_scripts]
+behavero = behavero.cli:main

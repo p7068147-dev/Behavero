@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+behavero/__init__.py
+behavero/__main__.py
+behavero/cli.py
+behavero/core.py
+behavero/storage.py
+behavero.egg-info/PKG-INFO
+behavero.egg-info/SOURCES.txt
+behavero.egg-info/dependency_links.txt
+behavero.egg-info/entry_points.txt
+behavero.egg-info/top_level.txt
+tests/test_cli.py
+tests/test_core.py

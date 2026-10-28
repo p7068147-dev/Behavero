@@ -1,0 +1,60 @@
+{
+  "after_created_at": "2026-10-28T20:18:20.048664+00:00",
+  "baseline_created_at": "2026-10-28T20:18:06.047388+00:00",
+  "created": [
+    {
+      "evidence": {
+        "kind": "file",
+        "mode": 420,
+        "mtime_ns": 1793218694874074034,
+        "path": "new.txt",
+        "sha256": "0f15384d18789b1ebf3043dc7b6bc27273c8576373fbeb6f3e15854b588141c0",
+        "size": 9
+      },
+      "path": "new.txt"
+    }
+  ],
+  "created_at": "2026-10-28T20:18:20.073257+00:00",
+  "deleted": [],
+  "limitations": [
+    "Differences are observations, not proof of malicious behavior.",
+    "Timestamp-only changes are not currently counted as modifications.",
+    "Changes outside the monitored directory and concurrent changes may be missed."
+  ],
+  "modified": [
+    {
+      "after": {
+        "kind": "file",
+        "mode": 420,
+        "mtime_ns": 1793218694873677323,
+        "path": "example.txt",
+        "sha256": "da2a17df486139bdf0142aaf8765cdd1870065929de0d76c92aef6672b807032",
+        "size": 16
+      },
+      "before": {
+        "kind": "file",
+        "mode": 420,
+        "mtime_ns": 1793218679912960680,
+        "path": "example.txt",
+        "sha256": "516ad7b388b21e05e8c56229f063d112e70a2fea45fdd357e8ff44e6a5bce689",
+        "size": 17
+      },
+      "changed_fields": [
+        "size",
+        "sha256"
+      ],
+      "path": "example.txt"
+    }
+  ],
+  "root_after": "/Users/philipp/behavero-lab",
+  "root_before": "/Users/philipp/behavero-lab",
+  "schema_version": 1,
+  "summary": {
+    "created": 1,
+    "deleted": 0,
+    "modified": 1,
+    "total_paths_compared": 2,
+    "unchanged": 0
+  },
+  "tool": "Behavero"
+}

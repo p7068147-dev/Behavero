@@ -1,0 +1,21 @@
+{
+  "created_at": "2026-10-28T20:18:06.047388+00:00",
+  "entries": {
+    "example.txt": {
+      "kind": "file",
+      "mode": 420,
+      "mtime_ns": 1793218679912960680,
+      "path": "example.txt",
+      "sha256": "516ad7b388b21e05e8c56229f063d112e70a2fea45fdd357e8ff44e6a5bce689",
+      "size": 17
+    }
+  },
+  "limitations": [
+    "Snapshots are point-in-time observations; concurrent changes can be missed.",
+    "Symlinks are recorded but not followed.",
+    "Changes outside the monitored directory are not observed."
+  ],
+  "platform": "macOS-26.5.2-arm64-arm-64bit-Mach-O",
+  "root": "/Users/philipp/behavero-lab",
+  "schema_version": 1
+}

@@ -27,5 +27,3 @@ This portfolio is a work in progress. Projects may change as I learn, experiment
 Feedback, bug reports, and constructive suggestions are welcome.
 
 ---
-
-*Built as part of my ongoing journey in software development and cybersecurity.*

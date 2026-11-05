@@ -24,6 +24,6 @@ Behavero helps users investigate changes to a directory by capturing filesystem 
 
 This portfolio is a work in progress. Projects may change as I learn, experiment, and improve their implementation and documentation.
 
-Feedback, bug reports, and constructive suggestions are welcome.
+Feedback, bug reports, and constructive suggestions are welcome. Just make a PULL Request.
 
 ---
